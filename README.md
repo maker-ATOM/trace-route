@@ -15,5 +15,5 @@ pip install -r requirements.txt
 ## Usage
 
 ```
-python3 trace-route.py [[hostname/domain]]
+python3 trace-route.py [hostname/domain]
 ```
