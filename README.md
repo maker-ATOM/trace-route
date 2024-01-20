@@ -1,6 +1,6 @@
 ## trace-route 
 
-Visualize the route a packet takes to reeach its destination from source on the internet.
+Visualize the route a packet takes to reach its destination from source on the internet.
 
 <p align="center">
 	<img src="/demo.png" width="900"/>
